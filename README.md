@@ -1,21 +1,40 @@
-<h1 align="center">Hi 👋, I'm Corey Hulls</h1>
-<h3 align="center">A Python Discord Bot developer from New Zealand!</h3>
+<h1 align="center">JAZPER</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=coreyhsgames&label=Profile%20views&color=0e75b6&style=flat" alt="coreyhsgames" /> </p>
-
-<p align="center">- 🌍 My Personal Website can be found @ https://coreyhsgames.tk</p>
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/coreyhsgames" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coreyhsgames" height="30" width="40" /></a>
-<a href="https://instagram.com/coreyhsgames" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coreyhsgames" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucxt8iglswc--wafd90g5qgw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucxt8iglswc--wafd90g5qgw" height="30" width="40" /></a>
-<a href="https://discord.gg/GbMufg9kf9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GbMufg9kf9" height="30" width="40" /></a>
+  <a href="https://github.com/coreyhsGames">
+    <img src="https://komarev.com/ghpvc/?username=coreyhsgames&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
+  </a>
+  <a href="https://discord.com/users/822561567102730251">
+    <img src="https://img.shields.io/badge/Discord-coreyhsGames%230519-%237289da?logo=discord&style=flat-square" alt="Discord: coreyhsGames#0519"/>
+  </a>
+  <a href="https://twitter.com/coreyhsgames">
+    <img src="https://img.shields.io/badge/Twitter-coreyhsGames-%231DA1F2?logo=twitter&style=flat-square" alt="Twitter: coreyhsGames"/>
+  </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<br><br>
+- 🌍 My Personal Website can be found @ **[coreyhsgames.tk](https://coreyhsgames.tk)**.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coreyhsgames&show_icons=true&locale=en&layout=compact" alt="coreyhsgames" /></p>
+<br>
+
+<details>
+  <summary>⚡ GitHub Statistics</summary> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coreyhsGames&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=coreyhsGames&count_private=true&show_icons=true&theme=tokyonight" />
+</details>
+
+---
+
+<details open>
+<summary>🛠 <b>Languages and Tools I use:</b></summary>
+<p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python" />
+<img src="https://img.shields.io/badge/CSharp-black?style=for-the-badge&logo=CSharp" />
+<img src="https://img.shields.io/badge/-Unity-black?style=for-the-badge&logo=Unity" />
+<img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=MongoDB" />
+<img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
+<img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=#1572B6" />
+</p>
+</details>
