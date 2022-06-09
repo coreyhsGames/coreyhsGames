@@ -1,4 +1,4 @@
-<h1 align="center">JAZPER</h1>
+<h1 align="center">coreyhsGames</h1>
 
 <p align="center">
   <a href="https://github.com/coreyhsGames">
