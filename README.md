@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=coreyhsgames&label=Profile%20views&color=0e75b6&style=flat" alt="coreyhsgames" /> </p>
 
-<p align="center">- 🌍 My Personal Website can be found @ [coreyhsgames.tk](https://coreyhsgames.tk)</p>
+<p align="center">- 🌍 My Personal Website can be found @ https://coreyhsgames.tk</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
