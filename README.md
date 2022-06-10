@@ -15,22 +15,15 @@
 </p>
 
 
-▫ 🌍 My Personal Website can be found @ **[coreyhsgames.tk](https://coreyhsgames.tk)**.
+🌍 My Personal Website can be found @ **[coreyhsgames.tk](https://coreyhsgames.tk)**.
 <br>
-▫ 📰 My Discord Server can be found @ **[discord.gg/GbMufg9kf9](https://discord.gg/GbMufg9kf9)**.
+📰 My Discord Server can be found @ **[discord.gg/GbMufg9kf9](https://discord.gg/GbMufg9kf9)**.
 
 <br>
-
-<details>
-  <summary>⚡ GitHub Statistics:</summary> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coreyhsGames&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=coreyhsGames&count_private=true&show_icons=true&theme=tokyonight" />
-</details>
 
 ---
 
-<details open>
-<summary>🛠 <b>Languages and Tools I use:</b></summary>
+🛠 <b>Languages and Tools I use:</b>
 <p>
 
 <p align="center">
@@ -41,4 +34,9 @@
 <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
 <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=#1572B6" />
 </p>
+
+<details>
+  <summary>⚡ GitHub Statistics:</summary> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coreyhsGames&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=coreyhsGames&count_private=true&show_icons=true&theme=tokyonight" />
 </details>
