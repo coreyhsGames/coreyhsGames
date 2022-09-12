@@ -14,13 +14,9 @@
   </a>
 </p>
 
-
-🌍 My Personal Website can be found @ **[coreyhsgames.tk](https://coreyhsgames.tk)**.
 <br>
-📰 My Discord Server can be found @ **[discord.gg/GbMufg9kf9](https://discord.gg/GbMufg9kf9)**.
-<br>
-💵 Donate to support me @ **[https://bit.ly/3zxVVve](https://bit.ly/3zxVVve)**
 
+💻 Free/Paid Discord Bot and Minecraft Server Hosting @ **[discord.gg/DHNJtq6SqJ](https://discord.gg/DHNJtq6SqJ)**.
 <br>
 
 ---
