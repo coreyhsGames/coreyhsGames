@@ -7,7 +7,7 @@
     <img src="https://komarev.com/ghpvc/?username=coreyhsgames&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
   </a>
   <a href="https://discord.com/users/822561567102730251">
-    <img src="https://img.shields.io/badge/Discord-coreyhsGames%230519-%237289da?logo=discord&style=flat-square" alt="Discord: coreyhsGames#0519"/>
+    <img src="https://img.shields.io/badge/Discord-! Corey%230519-%237289da?logo=discord&style=flat-square" alt="Discord: ! Corey#0519"/>
   </a>
   <a href="https://twitter.com/coreyhsgames">
     <img src="https://img.shields.io/badge/Twitter-coreyhsGames-%231DA1F2?logo=twitter&style=flat-square" alt="Twitter: coreyhsGames"/>
