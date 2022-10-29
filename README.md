@@ -1,7 +1,7 @@
 <h1 align="center">coreyhsGames</h1>
 
 <p align="center">
-  A Python Discord Bot developer from New Zealand.
+  A 15 year old Python Discord Bot and Front End developer from New Zealand.
   <br><br>
   <a href="https://github.com/coreyhsGames">
     <img src="https://komarev.com/ghpvc/?username=coreyhsgames&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
