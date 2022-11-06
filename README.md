@@ -12,6 +12,7 @@
   <a href="https://twitter.com/coreyhsgames">
     <img src="https://img.shields.io/badge/Twitter-coreyhsGames-%231DA1F2?logo=twitter&style=flat-square" alt="Twitter: coreyhsGames"/>
   </a>
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y4G6TBL)
 </p>
 
 <br>
