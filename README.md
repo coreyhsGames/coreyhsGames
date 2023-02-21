@@ -12,15 +12,8 @@
   <a href="https://twitter.com/coreyhsgames">
     <img src="https://img.shields.io/badge/Twitter-coreyhsGames-%231DA1F2?logo=twitter&style=flat-square" alt="Twitter: coreyhsGames"/>
   </a>
-  <br><br>
-  <a href="https://ko-fi.com/Y8Y4G6TBL">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi!"/>
-  </a>
 </p>
 
-<br>
-
-💻 Free/Paid Discord Bot and Minecraft Server Hosting @ **[discord.gg/DHNJtq6SqJ](https://discord.gg/DHNJtq6SqJ)**.
 <br>
 
 ---
