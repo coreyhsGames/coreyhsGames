@@ -18,18 +18,21 @@
 
 ---
 
-🛠 <b>Languages and Tools I use:</b>
+🛠 <b>Languages and Tools I use often:</b>
 <p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python" />
-<img src="https://img.shields.io/badge/CSharp-black?style=for-the-badge&logo=CSharp" />
-<img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=Lua" />
-<img src="https://img.shields.io/badge/-Unity-black?style=for-the-badge&logo=Unity" />
-<img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=MongoDB" />
-<img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
-<img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=#1572B6" />
-<img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript" />
+<p align="left"> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
+  <a href="https://lua.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="lua" width="40" height="40"/> </a> 
+  <a href="https://java.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> 
+</p>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> </a> 
 </p>
 
 <details>
