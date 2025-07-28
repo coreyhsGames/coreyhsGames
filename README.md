@@ -1,6 +1,6 @@
 ### Hello there, I'm Corey 👋
 #### I'm a game and web developer since 2016 from New Zealand! 🇳🇿🥝
-- Currently a high school student and working part-time at **[Retro Defense](https://github.com/RetroDefense)**.
+- Currently a high school student and working part-time at **[Retro Defense](https://www.roblox.com/games/6947076261/Retro-Defense)**.
 - Founder, owner, and lead developer at Retro Defense!
 - Also known for various projects such as:
   - [Retro Defense](https://www.roblox.com/games/6947076261/Retro-Defense): Popular Roblox Tower Defense Game I have been working since 2021! 
