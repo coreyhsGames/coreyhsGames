@@ -7,7 +7,7 @@
   - [Official Retro Defense Wiki](https://github.com/RetroDefense/wiki): The official wiki for the popular Tower Defense game, Retro Defense!
   - [Titanium Wallpaper](https://github.com/coreyhsGames/TitaniumWallpaper): A basic Lively wallpaper. Showing local time/date, music, audio visualiser, weather, and much more!
   - [PyGuessr](https://github.com/coreyhsGames/PyGuessr): A fun geography Discord Bot written in discord.py
-  - [BasementNodes Titanium Theme](https://github.com/coreyhsGames/BN-Titanium-Theme): A open source and custom Heliactyl theme for the BasementNodes Dashboard.
+  - [BasementNodes Titanium Theme](https://github.com/coreyhsGames/BN-Titanium-Theme): An open source and custom Heliactyl theme for the BasementNodes Dashboard.
 
 <details>
   <summary>📊 Statistics</summary>
